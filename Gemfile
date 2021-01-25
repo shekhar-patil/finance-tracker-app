@@ -11,6 +11,7 @@ gem 'pg'
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'iex-ruby-client'
+gem "font-awesome-rails"
 gem 'puma', '~> 4.1'
 gem 'devise'
 # Use SCSS for stylesheets
